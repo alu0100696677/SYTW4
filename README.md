@@ -1,4 +1,15 @@
-# Authenticating with Google
+##Practica: Usando OAuth con OmniAuth
+### Authenticating with Google
+
+**Autora:** Mª Belén Armas Torres
+
+**Details:** Configuramos nuestra propia versión de uso OmniAuth y desplegamos la aplicación en Heroku.
+
+###Página de Heroku
+
+https://sytw-oauth.herokuapp.com/
+
+###Información
 
 See these links:
 
